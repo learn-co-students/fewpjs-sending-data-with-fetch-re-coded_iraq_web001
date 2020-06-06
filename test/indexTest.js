@@ -1,4 +1,4 @@
-require( './setup' );
+ require( './setup' );
 const chai = require( 'chai' );
 const spies = require( 'chai-spies' );
 const nock = require( 'nock' );
